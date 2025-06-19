@@ -42,7 +42,7 @@ Você precisará ter o **Processing IDE** instalado. Caso não tenha, faça o do
 
 1.  **Clone o repositório:**
     ```sh
-    git clone https://github.com/seu-usuario/plantinha-pomposa.git
+    git clone https://github.com/sergiocalazans/plantinhapomposa.git
     ```
 
 2.  **Abra o Processing IDE:**
