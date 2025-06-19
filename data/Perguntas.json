@@ -1,0 +1,80 @@
+[
+    {
+        "id": 1,
+        "pergunta": "No que se refere ao desenvolvimento sustentável, analisar a sentença abaixo: Tem como objetivo a preservação do planeta sem o atendimento das necessidades humanas (1ª parte). Um recurso natural explorado de modo sustentável terá condições de também ser explorado por gerações futuras (2ª parte) A sentença está: ",
+        "opcoes": [
+            "Totalmente correta",
+            "Correta somente em sua 1ª parte",
+            "Correta somente em sua 2ª parte",
+            "Totalmente incorreta."
+        ],
+        "correta": 2
+    },
+    {
+        "id": 2,
+        "pergunta": "O conceito de desenvolvimento sustentável é apresentado como o de “garantir as necessidades do presente sem comprometer a capacidade de gerações futuras” (relatório da ONU). Dentro dessa ideia, a expressão que melhor se relaciona ao conceito é:",
+        "opcoes": [
+            "Maior uso de combustíveis fósseis",
+            "Viabilidade social dos projetos a serem implantados.",
+            "Aumento do capital utilizado em obras públicas.",
+            "Não inclusão de temas ambientais nos currículos escolares.",
+            "Uso indistinto dos recursos naturais."
+        ],
+        "correta": 1
+    },
+    {
+        "id": 3,
+        "pergunta": "O conceito de desenvolvimento sustentável considera o componente:",
+        "opcoes": [
+            "territorial, apenas",
+            "ambiental, inclusive",
+            "político, exclusivamente.",
+            "econômico, exclusivamente."
+        ],
+        "correta": 1
+    },
+    {
+        "id": 4,
+        "pergunta": "O desenvolvimento sustentável tem como pilar a harmonização das seguintes vertentes:",
+        "opcoes": [
+            "o sequestro de carbono, a formação de biomassa e a utilização racional.",
+            "a geração regular, a aplicação racional e a conservação",
+            "o crescimento econômico, a preservação ambiental e a equidade social.",
+            "a produção, a utilização racional e a preservação ambiental",
+            "o desenvolvimento social, o uso racional e a reposição intermitente."
+        ],
+        "correta": 2
+    },
+    {
+        "id": 5,
+        "pergunta": "Segundo as Nações Unidas, o desenvolvimento sustentável é aquele capaz de suprir as necessidades da geração atual, sem comprometer a capacidade de atender as necessidades das futuras gerações. Levando-se em conta essa premissa, para que tal desenvolvimento seja, atingido, é recomendável:",
+        "opcoes": [
+            "reduzir o crescimento econômico dos países industrializados",
+            "aumentar o crescimento econômico dos países não industrializados",
+            "acabar com o capitalismo e a globalização.",
+            "incentivar o uso de energia produzida pelo carvão mineral.",
+            "utilizar técnicas agrícolas que não prejudiquem o solo.."
+        ],
+        "correta": 4
+    },
+    {
+        "id": 6,
+        "pergunta": "Acerca dos problemas sociais urbanos no Brasil e de seus desdobramentos socioeconômicos e socioespaciais, julgue o item a seguir. Como elementos extraídos da natureza serão transformados e utilizados para a subsistência do homem, economia e meio ambiente são categorias que devem ser analisadas em conjunto, quando se considera a sustentabilidade.",
+        "opcoes": [
+            "Certo",
+            "Errado"
+        ],
+        "correta": 0
+    },
+    {
+        "id": 7,
+        "pergunta": "'A ideia de desenvolvimento sustentável tem sido cada vez mais discutida junto às questões que se referem ao crescimento econômico.'De acordo com esse conceito, marque a alternativa CORRETA que caracteriza a ideia de desenvolvimento sustentável.",
+        "opcoes": [
+            "São as riquezas acumuladas nos países em prejuízo das antigas colônias, durante a expansão colonial, que devem, hoje, sustentar o crescimento econômico dos povos.",
+            "O meio ambiente é fundamental para a vida humana e, portanto, deve ser intocável",
+            "Os países subdesenvolvidos são os únicos que praticam essa ideia, pois, por sua baixa industrialização, preservam melhor o meio ambiente do que os países ricos.",
+            "Se deve buscar uma forma de processo socioeconômico que não comprometa o meio ambiente sem que, com isso, deixemos de utilizar os recursos nele disponíveis."
+        ],
+        "correta": 3
+    }
+]
