@@ -1,6 +1,8 @@
 # Plantinha Pomposa
 
-
+<div align="center">
+    <img width="300" alt="Imagem do projeto" src="/Banners/1.png">
+</div>
 
 Um quiz interativo e educacional desenvolvido em Processing (Java) para ensinar estudantes sobre ecologia e sustentabilidade de uma forma divertida e engajadora. Acerte as perguntas, ajude sua plantinha a crescer e teste seus conhecimentos!
 
