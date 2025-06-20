@@ -74,10 +74,10 @@ Você precisará ter o **Processing IDE** instalado. Caso não tenha, faça o do
 
 ## 👥 Equipe de Desenvolvimento
 
--   Daniel Langner Jager
--   Eduardo de Oliveira Ellwanger
--   Isabelle Duarte Santos
--   Líbia Caniceiro da Silveira
--   Sérgio Henrique da Cunha Calazans
--   Pedro da Fonseca Schwertner
--   Sophia Oelke Verdi
+-   [Daniel Langner Jager]()
+-   [Eduardo de Oliveira Ellwanger]()
+-   [Isabelle Duarte Santos](https://github.com/isa991)
+-   [Líbia Caniceiro da Silveira](https://github.com/libiasilveira)
+-   [Sérgio Henrique da Cunha Calazans](https://github.com/sergiocalazans)
+-   [Pedro da Fonseca Schwertner](https://github.com/Pedr0fsc)
+-   [Sophia Oelke Verdi]()
